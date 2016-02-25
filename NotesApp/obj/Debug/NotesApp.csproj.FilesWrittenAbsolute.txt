@@ -1,0 +1,9 @@
+/Users/lexipeck/Documents/BrandonMSP/NotesApp/NotesApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/lexipeck/Documents/BrandonMSP/NotesApp/NotesApp/bin/Debug/NotesApp.dll.mdb
+/Users/lexipeck/Documents/BrandonMSP/NotesApp/NotesApp/bin/Debug/NotesApp.dll
+/Users/lexipeck/Documents/BrandonMSP/NotesApp/NotesApp/obj/Debug/NotesApp.dll
+/Users/lexipeck/Documents/BrandonMSP/NotesApp/NotesApp/obj/Debug/NotesApp.dll.mdb
+/Users/lexipeck/Documents/BrandonMSP/NotesApp/NotesApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/lexipeck/Documents/BrandonMSP/NotesApp/NotesApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/lexipeck/Documents/BrandonMSP/NotesApp/NotesApp/bin/Debug/PCLStorage.dll
+/Users/lexipeck/Documents/BrandonMSP/NotesApp/NotesApp/bin/Debug/PCLStorage.Abstractions.dll

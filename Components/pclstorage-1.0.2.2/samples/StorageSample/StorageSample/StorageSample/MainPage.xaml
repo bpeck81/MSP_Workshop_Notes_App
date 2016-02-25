@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StorageSample.MainPage"
+             Title="File System Plugin"
+             Padding="12">
+
+  <StackLayout>
+
+    <Button Command="{Binding ReadContentsCommand}" Text="Read Random File"
+            VerticalOptions="Center" HorizontalOptions="Fill" />
+    <Button Command="{Binding DeleteFileCommand}" Text="Delete RandomFile"
+            VerticalOptions="Center" HorizontalOptions="Fill" />
+
+    <Label Text="{Binding FileContents}" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+
+  </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="pclstorage" is-shell="true">
+  <name>File System Plugin for Xamarin and Windows</name>
+  <publisher>Xamarin Inc</publisher>
+  <publisher-url>http://xamarin.com</publisher-url>
+  <src-url>https://github.com/dsplaisted/PCLStorage</src-url>
+  <version>1.0.2.2</version>
+  <summary>The File System Plugin for Xamarin and Windows provides a consistent, portable set of local file IO APIs for Windows Phone, Xamarin.iOS and Xamarin.Android.</summary>
+  <packages>
+    <package id="pclstorage" version="1.0.2" framework="win8" />
+    <package id="pclstorage" version="1.0.2" framework="android" />
+    <package id="pclstorage" version="1.0.2" framework="winphone-8.1" />
+    <package id="pclstorage" version="1.0.2" framework="mac-unified" />
+    <package id="pclstorage" version="1.0.2" framework="ios-unified" />
+    <package id="pclstorage" version="1.0.2" framework="winphone-8.0" />
+    <package id="pclstorage" version="1.0.2" framework="ios" />
+  </packages>
+  <samples>
+    <sample id="StorageSample">
+      <name>Xamarin.Forms Sample</name>
+      <summary>Xamarin.Forms Sample</summary>
+    </sample>
+  </samples>
+</component>
